@@ -25,9 +25,6 @@ Uma interface de login moderna e responsiva, desenvolvida para praticar conceito
 
 Para rodar este projeto localmente, siga os passos abaixo:
 
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
 
 
    ## Imagens da tela:
