@@ -1,6 +1,6 @@
-# 🚀 Login Dev - Modern Glassmorphism UI
+# 🚀 Login Dev - Tela do usuario UI
 
-# Visualização do projeto: (https://github.com/user-attachments/assets/a87efa49-25bd-4c42-8ea5-9433464e6b40
+* Visualização do projeto: https://github.com/user-attachments/assets/a87efa49-25bd-4c42-8ea5-9433464e6b40
 
 
 Uma interface de login moderna e responsiva, desenvolvida para praticar conceitos avançados de CSS, como o efeito **Glassmorphism** (vidro fosco) e design futurista com cores neon.
